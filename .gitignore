@@ -1,0 +1,23 @@
+# Maven build output
+target/
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vs/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
+
+# Environment/secrets
+*.env
+application-secret.properties
